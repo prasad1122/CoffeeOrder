@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+    <string name="rate">Cost per One Coffee:Rs.10/-</string>
+</resources>
